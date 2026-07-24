@@ -1,0 +1,2 @@
+Model,Strategy,Accuracy,Precision,Recall,F1 Score,Training Time (sec)
+ViT-B16,Fine-Tuning,0.9693,0.9694450765636998,0.9693,0.9693215288968753,11270.475773096085

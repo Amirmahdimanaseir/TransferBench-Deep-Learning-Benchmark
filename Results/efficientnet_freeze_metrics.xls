@@ -1,0 +1,2 @@
+Model,Strategy,Accuracy,Precision,Recall,F1 Score,Training Time (sec)
+EfficientNet-B0,Feature Extraction,0.8354,0.8359582971414716,0.8354,0.8340411096289426,3464.2822694778442

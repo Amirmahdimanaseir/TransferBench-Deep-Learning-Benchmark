@@ -1,0 +1,2 @@
+Model,Strategy,Accuracy,Precision,Recall,F1 Score,Training Time (sec)
+ResNet18,Fine-Tuning,0.9399,0.9400891521667727,0.9399,0.939756286865098,1634.3461320400238

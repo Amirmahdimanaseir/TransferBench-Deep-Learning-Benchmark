@@ -1,0 +1,2 @@
+Model,Strategy,Accuracy,Precision,Recall,F1 Score,Training Time (sec)
+EfficientNet-B0,Fine-Tuning,0.8905,0.8917515517257943,0.8905,0.8900352890507224,1525.123615026474

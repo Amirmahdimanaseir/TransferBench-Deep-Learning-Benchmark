@@ -1,0 +1,2 @@
+Model,Strategy,Accuracy,Precision,Recall,F1,Training Time (sec)
+ResNet18,Freeze Feature Extractor,0.7887,0.7944239501911038,0.7887,0.7881539483648304,435.56992864608765

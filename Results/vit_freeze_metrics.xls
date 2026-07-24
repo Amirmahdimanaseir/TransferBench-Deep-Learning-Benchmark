@@ -1,0 +1,2 @@
+Model,Strategy,Accuracy,Precision,Recall,F1 Score,Training Time (sec)
+ViT-B16,Feature Extraction,0.9557,0.9557384015297928,0.9557,0.9556792578408829,10165.475192546844
